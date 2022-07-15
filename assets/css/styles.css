@@ -1,0 +1,12 @@
+.first_tittle{
+    font-size: 50px;
+    text-align: center;
+}
+
+.menu{
+    background-color: #f4a261;
+}
+.button_search{
+    border: 5px solid #f4a261;
+    border-radius: 10px;
+}
